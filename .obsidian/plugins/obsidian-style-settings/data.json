@@ -1,0 +1,7 @@
+{
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-text)",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue"
+}

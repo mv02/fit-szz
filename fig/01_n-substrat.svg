@@ -1,0 +1,15 @@
+<svg width="215mm" height="214mm" version="1.1" viewBox="0 0 215 214" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs><radialGradient id="e" cx="245" cy="245" r="95" gradientTransform="matrix(.176 0 0 .176 64 63)" gradientUnits="userSpaceOnUse"><stop stop-color="#fdf" offset="0"/><stop stop-color="#d7d" offset="1"/></radialGradient><radialGradient id="g" cx="245" cy="245" r="95" gradientTransform="matrix(.176 0 0 .176-2-3)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff5" offset="0"/><stop stop-color="#e72" offset="1"/></radialGradient><radialGradient id="f" cx="54" cy="276" r="28" gradientTransform="matrix(.143 0 0 .143 28-32)" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#ade" offset="1"/></radialGradient></defs>
+ <rect width="215" height="214" fill="#fff"/>
+ <g font-family="Times" font-size="13px" text-anchor="middle">
+ <g id="c" fill="none" stroke="#000">
+ <g id="d">
+ <g id="b"><path d="m36 31v-24"/><path d="m46 12v12" stroke-dasharray="1"/><circle id="h" cx="36" cy="7" r="5" fill="url(#f)" stroke="#000" stroke-width=".5"/></g>
+ <use transform="rotate(90 41 40)" xlink:href="#b"/><use transform="rotate(180 41 40)" xlink:href="#b"/><use transform="rotate(-90 41 40)" xlink:href="#b"/><path d="m6 45h4m34 28h4m24-38h4m-42-28h4"/><circle cx="41" cy="40" r="17" fill="url(#g)" stroke-width=".5"/><text x="41" y="45" fill="#000" stroke="none">Si</text></g>
+ <use transform="translate(66)" xlink:href="#d"/><use transform="translate(132)" xlink:href="#d"/></g>
+ <use transform="translate(0 66)" xlink:href="#c"/><use transform="translate(0 132)" xlink:href="#c"/><use transform="translate(86 74)" xlink:href="#a"/>
+ <g id="j">
+ <g id="a"><use transform="translate(10)" xlink:href="#h"/><path d="m44 7h4" stroke="#000"/></g>
+ <use transform="translate(66)" xlink:href="#a"/><use transform="translate(132)" xlink:href="#a"/></g>
+ <g id="i"><use transform="translate(-38 160)" xlink:href="#a"/><use transform="translate(-38 94)" xlink:href="#a"/><use transform="translate(-38 28)" xlink:href="#a"/></g>
+ <circle cx="107" cy="106" r="17" fill="url(#e)" stroke="#000" stroke-width=".5"/><text x="107" y="111">P</text><path d="m115 99 14-15" stroke="#000"/><use transform="translate(-10 198)" xlink:href="#j"/><use transform="translate(198 10)" xlink:href="#i"/></g></svg>
